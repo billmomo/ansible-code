@@ -12,3 +12,4 @@
         date
         nproc
         lsblk 
+# this line is to test jenkins ci/cd builod for yml files
